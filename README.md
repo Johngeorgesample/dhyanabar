@@ -2,9 +2,7 @@
 
 ![Screenshot](screenshot.jpg)
 
-Übersicht system information bar for use with kwm window
-manager. A fork of herrbischoff's
-[nerdbar](https://github.com/herrbischoff/nerdbar.widget)
+Übersicht system information bar to replace the stock macOS menubar. This fork adds current song playing (either Spotify or MPD) and current connected wifi network, along with minor graphical changs.  A fork of zhaorz's [zenbar](https://github.com/zhaorz/zenbar)
 
 ## Installation
 
@@ -13,5 +11,5 @@ Make sure you have [Übersicht](http://tracesof.net/uebersicht/) installed.
 Then clone this repository.
 
 ```bash
-git clone https://github.com/zhaorz/zenbar $HOME/Library/Application\ Support/Übersicht/widgets/zenbar
+git clone https://github.com/Johngeorgesample/dhyanabar $HOME/Library/Application\ Support/Übersicht/widgets/dhyanabar
 ```
