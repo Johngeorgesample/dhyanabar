@@ -1,4 +1,4 @@
-command: "date +\"%a %d %b %Y %H:%M:%S\""
+command: "date +\"%a %b %d %Y | %I:%M\""
 
 refreshFrequency: 1000
 
@@ -8,8 +8,8 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
-  font: 9px Menlo
-  top: 16px
+  font: 12px Menlo
+  top: 14px
   width: 100%
 
   .date
