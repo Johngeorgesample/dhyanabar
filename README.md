@@ -2,7 +2,7 @@
 
 ![screenshot](https://user-images.githubusercontent.com/4723360/50490428-06517400-09db-11e9-8f4a-8425c617962a.png)
 
-Übersicht system information bar to replace the stock macOS menubar. This fork adds current song playing (either Spotify or MPD) and current connected WiFi network, along with minor graphical changs.  
+Übersicht system information bar to replace the stock macOS menubar. This fork adds current song playing (either Spotify or MPD) and current connected WiFi network, along with minor graphical changes.  
 
 A fork of zhaorz's [zenbar](https://github.com/zhaorz/zenbar)
 Connected WiFi-SSID is thanks to [maxtexan](https://github.com/mactexan/WiFi-SSID-Widget)
