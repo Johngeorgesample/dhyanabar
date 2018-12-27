@@ -1,4 +1,4 @@
-# zenbar
+# dhyanabar
 
 ![screenshot](https://user-images.githubusercontent.com/4723360/50490428-06517400-09db-11e9-8f4a-8425c617962a.png)
 
