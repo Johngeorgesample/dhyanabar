@@ -6,7 +6,7 @@
 
 A fork of zhaorz's [zenbar](https://github.com/zhaorz/zenbar)
 
-Connected WiFi-SSID is thanks to [maxtexan](https://github.com/mactexan/WiFi-SSID-Widget)
+Connected WiFi-SSID is thanks to [mactexan](https://github.com/mactexan/WiFi-SSID-Widget)
 
 ## Installation
 
